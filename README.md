@@ -2,6 +2,8 @@
 
 Terraform modules in this repo are considered production grade and have been extensively used to provision various instances on top of [Triton Data Center](https://github.com/TritonDataCenter/triton).
 
+Sample apps using some of these modules can be seen in this [repo](https://github.com/T1SS/terraform).
+
 The following modules are supported:
 
 ```
